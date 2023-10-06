@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **lorijseo@gmail.com**
 
-- 📄 Know about my experiences [Lori's Resume](https://docs.google.com/gview?url= https://viewscreen.githubusercontent.com/view/pdf?browser=chrome&amp;bypass_fastly=true&amp;color_mode=auto&amp;commit=96d74a92f44ef7bf2d2eb18823caa0b06cfba91d&amp;device=unknown_device&amp;docs_host=https%3A%2F%2Fdocs.github.com&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c6f72696a73656f2f6c6f72696a73656f2f393664373461393266343465663762663264326562313838323363616130623036636662613931642f6c6f72692d73656f2d726573756d652e706466&amp;logged_in=true&amp;nwo=lorijseo%2Florijseo&amp;path=lori-seo-resume.pdf&amp;platform=windows&amp;repository_id=701505826&amp;repository_type=Repository&amp;version=117#ebbd89fe-4105-443a-9af6-ab73989aac9e&embedded=true)
+- 📄 Know about my experiences [[Lori's Resume](https://docs.google.com/gview?url= https://viewscreen.githubusercontent.com/view/pdf?browser=chrome&amp;bypass_fastly=true&amp;color_mode=auto&amp;commit=96d74a92f44ef7bf2d2eb18823caa0b06cfba91d&amp;device=unknown_device&amp;docs_host=https%3A%2F%2Fdocs.github.com&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c6f72696a73656f2f6c6f72696a73656f2f393664373461393266343465663762663264326562313838323363616130623036636662613931642f6c6f72692d73656f2d726573756d652e706466&amp;logged_in=true&amp;nwo=lorijseo%2Florijseo&amp;path=lori-seo-resume.pdf&amp;platform=windows&amp;repository_id=701505826&amp;repository_type=Repository&amp;version=117#ebbd89fe-4105-443a-9af6-ab73989aac9e&embedded=true)]
 
 
 <h3 align="left">Connect with me:</h3>
