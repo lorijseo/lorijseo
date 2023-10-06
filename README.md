@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm xyz</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🔭 I’m currently working on **xyz**
+
+- 🌱 I’m currently learning **xyz**
+
+- 👯 I’m looking to collaborate on **xyz**
+
+- 🤝 I’m looking for help with **xyz**
+
+- 💬 Ask me about **xyz**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
