@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me **lorijseo@gmail.com**
-- ⚡ Connect with me **![LinkedIn](https://linkedin.com/in/lorijseo)**
+- ⚡ Connect with me **[LinkedIn](https://linkedin.com/in/lorijseo)**
 
 
 <h3 align="left">Connect with me:</h3>
