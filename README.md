@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h3 align="center">Set to graduate June 2024!</h3>
 
 
-- 📫 How to reach me **lorijseo@gmail.com**
-- 🌱 [Portfolio Website](https://lorijseo.me)
+📫 How to reach me **lorijseo@gmail.com**
+🌱 [Portfolio Website](https://lorijseo.me)
 
 
 <h3 align="left">Connect with me:</h3>
