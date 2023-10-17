@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 📫 How to reach me **lorijseo@gmail.com**
-
+<br>
 🌱 [Portfolio Website](https://lorijseo.me)
 
 
