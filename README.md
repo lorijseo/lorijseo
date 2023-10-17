@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 📫 How to reach me **lorijseo@gmail.com**
+
 🌱 [Portfolio Website](https://lorijseo.me)
 
 
