@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Lori</h1>
-<h3 align="center">Set to graduate June 2024!</h3>
+<h3 align="center">⚡⚡Seeking Entry Level Softare Development Position⚡⚡</h3>
 
 
 📫 How to reach me **lorijseo@gmail.com**
